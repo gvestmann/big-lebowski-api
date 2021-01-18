@@ -1,6 +1,58 @@
 [
     {
-        "name": "The Dude",
-        "Occupation": "Unemployed, but has business papers"
+        "name": "Jeffrey Lebowski",
+        "occupation": "Unemployed, but has business papers.",
+        "also_known_as": "The Dude.",
+        "hobbies": "Bowling, smoking pot, the occasional acid flashback and driving around.",
+        "other_info": "The Dude is soon to be a father"
+    },
+    {
+        "name": "Walter Sobchak",
+        "occupation": "Business owner (Sobchak Security)",
+        "also_known_as": "Just Walter",
+        "hobbies": "Bowling and babysitting his ex-wife's dog.",
+        "other_info": "Walter fought in Vietnam and converted to Judaism."
+    },
+    {
+        "name": "Theodore Donald Kerabatsos.",
+        "occupation": "Is not known",
+        "also_known_as": "Donny",
+        "hobbies": "Bowling and surfing.",
+        "other_info": "Donny is deceased."
+    },
+    {
+        "name": "Jeffrey Lebowski",
+        "occupation": "A broke millionaire and vain philanthropist.",
+        "also_known_as": "The other Jeffrey Lebowski.",
+        "hobbies": "Unknown.",
+        "other_info": "Lebowski is disabled and uses a wheelchair."
+    },
+    {
+        "name": "Maude Lebowski",
+        "occupation": "Artist.",
+        "also_known_as": "The Dude's special lady-friend.",
+        "hobbies": "Unknown.",
+        "other_info": "Daughter of the other Jeffrey Lebowski."
+    },
+    {
+        "name": "Bunny Lebowski",
+        "occupation": "Adult film-star.",
+        "also_known_as": "Bunny La Joya.",
+        "hobbies": "Sitting by the pool and applying nail polish to her toes.",
+        "other_info": "In the porno-film Logjammin, Bunny's co-actor was Uli Kunkel."
+    },
+    {
+        "name": "Brandt",
+        "occupation": "The Big Lebowski's personal assistant.",
+        "also_known_as": "Just Brandt",
+        "hobbies": "Unknown.",
+        "other_info": "Not much to know."
+    },
+    {
+        "name": "Uli Kunkel",
+        "occupation": "Adult film-actor, criminal and musician.",
+        "also_known_as": "Karl Hungus.",
+        "hobbies": "Nihilism.",
+        "other_info": "Is a part of a group of nihilists."
     }
 ]
