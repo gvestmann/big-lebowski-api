@@ -1,6 +1,7 @@
 [
     {
         "name": "Jeffrey Lebowski",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/dude.jpg",
         "occupation": "Unemployed, but has business papers.",
         "also_known_as": "The Dude.",
         "hobbies": "Bowling, smoking pot, the occasional acid flashback and driving around.",
@@ -8,6 +9,7 @@
     },
     {
         "name": "Walter Sobchak",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/walter.jpg",
         "occupation": "Business owner (Sobchak Security).",
         "also_known_as": "Just Walter.",
         "hobbies": "Bowling and babysitting his ex-wife's dog.",
@@ -15,6 +17,7 @@
     },
     {
         "name": "Theodore Donald Kerabatsos",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/donny.jpg",
         "occupation": "Is not known.",
         "also_known_as": "Donny.",
         "hobbies": "Bowling and surfing.",
@@ -22,6 +25,7 @@
     },
     {
         "name": "Jeffrey Lebowski",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/lebowski.jpg",
         "occupation": "A broke millionaire and vain philanthropist.",
         "also_known_as": "The other Jeffrey Lebowski.",
         "hobbies": "Unknown.",
@@ -29,6 +33,7 @@
     },
     {
         "name": "Maude Lebowski",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/maude.jpg",
         "occupation": "Artist.",
         "also_known_as": "The Dude's special lady-friend.",
         "hobbies": "Unknown.",
@@ -36,6 +41,7 @@
     },
     {
         "name": "Bunny Lebowski",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/bunny.jpg",
         "occupation": "Adult film-star.",
         "also_known_as": "Bunny La Joya.",
         "hobbies": "Sitting by the pool and applying nail polish to her toes.",
@@ -43,6 +49,7 @@
     },
     {
         "name": "Brandt",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/brandt.jpg",
         "occupation": "The Big Lebowski's personal assistant.",
         "also_known_as": "Just Brandt.",
         "hobbies": "Unknown.",
@@ -50,6 +57,7 @@
     },
     {
         "name": "The Stranger",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/stranger.png",
         "occupation": "Unknown." ,
         "also_known_as": "Unknown.",
         "hobbies": "Sitting at a bar, most often drinking Sarsparilla and rambling.",
@@ -57,6 +65,7 @@
     },
     {
         "name": "Uli Kunkel",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/nihilists.jpg",
         "occupation": "Adult film-actor, criminal and musician.",
         "also_known_as": "Karl Hungus.",
         "hobbies": "Nihilism.",
@@ -64,6 +73,7 @@
     },
     {
         "name": "Jesus Quintana",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/jesus.jpg",
         "occupation": "Occupation unknown.",
         "also_known_as": "The Jesus.",
         "hobbies": "Bowling.",
@@ -71,6 +81,7 @@
     },
     {
         "name": "Smokey",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/smokey.jpg",
         "occupation": "Not known.",
         "also_known_as": "Just Smokey.",
         "hobbies": "Bowling.",
@@ -78,6 +89,7 @@
     },
     {
         "name": "Jackie Treehorn",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/treehorn.jpg",
         "occupation": "Pornographer and loan-shark.",
         "also_known_as": "n/a",
         "hobbies": "Erotic beach parties.",
@@ -85,6 +97,7 @@
     },
     {
         "name": "Woo",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/woo.jpg",
         "occupation": "Jackie Treehorn's thug.",
         "also_known_as": "The Carpet Pisser.",
         "hobbies": "Roughing up people.",
@@ -92,6 +105,7 @@
     },
     {
         "name": "Jackie Treehorn's other thug",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/blond.jpg",
         "occupation": "Jackie Treehorn's employee.",
         "also_known_as": "His name is never mentioned.",
         "hobbies": "Beating up people and stuffing heads into toilets.",
@@ -99,6 +113,7 @@
     },
     {
         "name": "Allan",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/landlord.jpg",
         "occupation": "Landlord.",
         "also_known_as": "Not known.",
         "hobbies": "Artistic dancing.",
@@ -106,6 +121,7 @@
     },
     {
         "name": "Larry Seller",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/larry.jpg",
         "occupation": "Student.",
         "also_known_as": "Just Larry.",
         "hobbies": "Stealing cars.",
@@ -113,6 +129,7 @@
     },
     {
         "name": "Da Fino",
+        "image": "https://raw.githubusercontent.com/gvestmann/the-big-laboutski/main/img/dafino.jpg",
         "occupation": "Private Investigator.",
         "also_known_as": "Unknown.",
         "hobbies": "Following The Dude.",
