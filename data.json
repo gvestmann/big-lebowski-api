@@ -4,19 +4,19 @@
         "occupation": "Unemployed, but has business papers.",
         "also_known_as": "The Dude.",
         "hobbies": "Bowling, smoking pot, the occasional acid flashback and driving around.",
-        "other_info": "The Dude is soon to be a father"
+        "other_info": "The Dude is soon to be a father."
     },
     {
         "name": "Walter Sobchak",
-        "occupation": "Business owner (Sobchak Security)",
-        "also_known_as": "Just Walter",
+        "occupation": "Business owner (Sobchak Security).",
+        "also_known_as": "Just Walter.",
         "hobbies": "Bowling and babysitting his ex-wife's dog.",
         "other_info": "Walter fought in Vietnam and converted to Judaism."
     },
     {
-        "name": "Theodore Donald Kerabatsos.",
-        "occupation": "Is not known",
-        "also_known_as": "Donny",
+        "name": "Theodore Donald Kerabatsos",
+        "occupation": "Is not known.",
+        "also_known_as": "Donny.",
         "hobbies": "Bowling and surfing.",
         "other_info": "Donny is deceased."
     },
@@ -39,20 +39,83 @@
         "occupation": "Adult film-star.",
         "also_known_as": "Bunny La Joya.",
         "hobbies": "Sitting by the pool and applying nail polish to her toes.",
-        "other_info": "In the porno-film Logjammin, Bunny's co-actor was Uli Kunkel."
+        "other_info": "Was in the porno-film Logjammin, along side Uli Kunkel."
     },
     {
         "name": "Brandt",
         "occupation": "The Big Lebowski's personal assistant.",
-        "also_known_as": "Just Brandt",
+        "also_known_as": "Just Brandt.",
         "hobbies": "Unknown.",
         "other_info": "Not much to know."
+    },
+    {
+        "name": `"The Stranger"`,
+        "occupation": "Unknown." ,
+        "also_known_as": "Unknown.",
+        "hobbies": "Sitting at a bar, most often drinking Sarsparilla and rambling.",
+        "other_info": "He is the movies narrator."
     },
     {
         "name": "Uli Kunkel",
         "occupation": "Adult film-actor, criminal and musician.",
         "also_known_as": "Karl Hungus.",
         "hobbies": "Nihilism.",
-        "other_info": "Is a part of a group of nihilists."
-    }
+        "other_info": "Is a part of a group of nihilists along with former bandmates Dieter and Franz."
+    },
+    {
+        "name": "Jesus Quintana",
+        "occupation": "Occupation unknown.",
+        "also_known_as": "The Jesus.",
+        "hobbies": "Bowling.",
+        "other_info": "He is a registered sex-offender."
+    },
+    {
+        "name": "Smokey",
+        "occupation": "Not known.",
+        "also_known_as": "Just Smokey.",
+        "hobbies": "Bowling.",
+        "other_info": "Smokey is a pacifist."
+    },
+    {
+        "name": "Jackie Treehorn",
+        "occupation": "Pornographer and loan-shark.",
+        "also_known_as": "n/a",
+        "hobbies": "Erotic beach parties.",
+        "other_info": "Jackie lives his a villa in Malibu."
+    },
+    {
+        "name": "Woo",
+        "occupation": "Jackie Treehorn's thug.",
+        "also_known_as": `"The Carpet Pisser".`,
+        "hobbies": "Roughing up people.",
+        "other_info": "He's the one who peed on The Dude's rug."
+    },
+    {
+        "name": "Jackie Treehorn's other thug",
+        "occupation": "Jackie Treehorn's employee.",
+        "also_known_as": "His name is never mentioned.",
+        "hobbies": "Beating up people and stuffing heads into toilets.",
+        "other_info": "Works alongside Woo."
+    },
+    {
+        "name": "Allan",
+        "occupation": "Landlord.",
+        "also_known_as": "Not known.",
+        "hobbies": "Artistic dancing.",
+        "other_info": "Is owed rent by The Dude."
+    },
+    {
+        "name": "Larry Seller",
+        "occupation": "Student.",
+        "also_known_as": "Just Larry.",
+        "hobbies": "Stealing cars.",
+        "other_info": "He is the son of Arthur Digby Sellers, author of 156 episodes of Branded."
+    },
+    {
+        "name": "Da Fino",
+        "occupation": "Private Investigator.",
+        "also_known_as": "Unknown.",
+        "hobbies": "Following The Dude.",
+        "other_info": "He is working for the Knutsens', Bunny Lebowski's family."
+    } 
 ]

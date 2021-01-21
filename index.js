@@ -10,7 +10,6 @@ app.get("/", (req, res) => {
     res.send(importData)
 });
 
-
 app.listen(port, () => {
     console.log(`Example App is listening on http:localhost:${port}`);
 });
