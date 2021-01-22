@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/gvestmann/big-lebowski-api#readme",
   "dependencies": {
+    // Here's the cors NPM module
     "cors": "^2.8.5",
+    // Here's the Express NPM module
     "express": "^4.17.1"
   },
+  // The API uses the node server / engine
   "engines": {
     "node": "15.2.0"
   }
